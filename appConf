@@ -1,0 +1,3 @@
+-np 1 master.exe
+-np 3 worker.exe
+
